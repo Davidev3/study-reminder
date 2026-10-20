@@ -10,7 +10,7 @@ from winotify import Notification
 notf = Notification (
     app_id= "Python",
     title="Aprende essa!",
-    msg="!",
+    msg="Enviando notificações com windows!",
 )
 
 notf.show()
